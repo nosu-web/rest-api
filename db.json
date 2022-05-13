@@ -1,0 +1,59 @@
+[
+  {
+    "lastName": "Иванов",
+    "firstName": "Владимир",
+    "gender": "man",
+    "age": 24,
+    "address": {
+      "city": "Москва",
+      "street": "Пушкина",
+      "house": "дом Колотушкина"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+74952530000"
+      }
+    ]
+  },
+  {
+    "lastName": "Петров",
+    "firstName": "Сергей",
+    "middleName": "Иванович",
+    "gender": "man",
+    "age": 20,
+    "address": {
+      "city": "Ростов",
+      "street": "Донская",
+      "house": 15
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+73252530000"
+      },
+      {
+        "type": "mobile",
+        "number": "+79992530000"
+      }
+    ]
+  },
+  {
+    "lastName": "Плиева",
+    "firstName": "Фатима",
+    "middleName": "Александровна",
+    "gender": "man",
+    "age": 23,
+    "address": {
+      "city": "Владикавказ",
+      "street": "Ленина",
+      "house": 27
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "+79992530000"
+      }
+    ]
+  }
+]
